@@ -1,4 +1,4 @@
-// Day 1: Declaring Variables
+// Day 2: Declaring Variables
 
 // Exercise 1: let vs const vs var
 // Question: Which of these declarations will throw an error? Why?
