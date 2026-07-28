@@ -11,7 +11,7 @@ Daily coding challenges covering core JavaScript concepts. Each day focuses on a
 ### Week 1 - Basics
 -  Day 1 -  Variables (let, const, var)
 -  Day 2 -  Variables (let, const, var, scope, hoisting)
--  Day 3 -  (coming soon)
+-  Day 3 -  Data Types (string, number, boolean, null, undefined)
 -  Day 4 -  (coming soon)
 -  Day 5 -  (coming soon)
 
