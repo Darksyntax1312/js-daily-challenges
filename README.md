@@ -12,8 +12,9 @@ Daily coding challenges covering core JavaScript concepts. Each day focuses on a
 -  Day 1 -  Variables (let, const, var)
 -  Day 2 -  Variables (let, const, var, scope, hoisting)
 -  Day 3 -  Data Types (string, number, boolean, null, undefined)
--  Day 4 -  (coming soon)
--  Day 5 -  (coming soon)
+-  Day 4 -  Type Conversion & Coercion
+-  Day 5 -  coming soon....
+-  Day 6 -  coming soon....
 
 ## How to run
 Copy/paste any file into browser console or Node.js
@@ -21,4 +22,6 @@ Copy/paste any file into browser console or Node.js
 ## Files
 - `day1-script.js` - let, const, var, scope, hoisting
 - `day2-script.js` - let, const, var, scope, hoisting
-- `day3`  --- coming soon......
+- `day3-script.js` - Data types
+- `day4-script.js` - Type conversion
+- `day5` coming soon....
