@@ -14,7 +14,7 @@ Daily coding challenges covering core JavaScript concepts. Each day focuses on a
 -  Day 3 -  Data Types (string, number, boolean, null, undefined)
 -  Day 4 -  Type Conversion & Coercion
 -  Day 5 -  Type Conversion (String, Number, Boolean)
--  Day 6 -  coming soon....
+-  Day 6 -  Operators (arithmetic, comparison, logical, assignment)
 -  Day 7 -  coming soon....
 
 ## How to run
@@ -26,4 +26,5 @@ Copy/paste any file into browser console or Node.js
 - `day3-script.js` - Data types
 - `day4-script.js` - Type conversion
 - `day5-script.js` - Type Conversion (String, Number, Boolean conversion)
-- `day6`           - coming soon....
+- `day6-script.js` - Type conversion and coercion
+- `day7`           - coming soon....
