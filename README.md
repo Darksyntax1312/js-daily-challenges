@@ -15,10 +15,11 @@ Daily coding challenges covering core JavaScript concepts. Each day focuses on a
 -  Day 4 -  Type Conversion & Coercion
 -  Day 5 -  Type Conversion (String, Number, Boolean)
 -  Day 6 -  Operators (arithmetic, comparison, logical, assignment)
--  Day 7 -  coming soon....
+-  Day 7 -  Block scope, Function scope, Global vs Local variables, Type coercion, Strict equality, const/let usage, Data types
+-  Day 8 -  coming soon....
 
 ## How to run
-Copy/paste any file into browser console or Node.js
+Copy/paste any file into browser console or Node.js and try to remove comments from wherever necessary.
 
 ## Files
 - `day1-script.js` - let, const, var, scope, hoisting
@@ -27,4 +28,5 @@ Copy/paste any file into browser console or Node.js
 - `day4-script.js` - Type conversion
 - `day5-script.js` - Type Conversion (String, Number, Boolean conversion)
 - `day6-script.js` - Type conversion and coercion
-- `day7`           - coming soon....
+- `day7-script.js` - scope and types
+- `day8`           - coming soon....
