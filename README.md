@@ -20,6 +20,7 @@ Daily coding challenges covering core JavaScript concepts. Each day focuses on a
  ### Week 1 - String and loops
 
  - Day 1 -  String Basics (charAt, length, toUpperCase, toLowerCase, slice, replace)
+ - Day 2 -  Looping Through Strings (for loops, character by character)
 
 ## How to run
 Copy/paste any file into browser console or Node.js and try to remove comments from wherever necessary.
@@ -34,4 +35,6 @@ Copy/paste any file into browser console or Node.js and try to remove comments f
 - `day7-script.js` - scope and types
 
 week 2 
+-`day1-script.js`
+-`day2-script.js`
 
