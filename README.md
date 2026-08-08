@@ -24,7 +24,8 @@ Daily coding challenges covering core JavaScript concepts. Each day focuses on a
  - Day 3 -  String Conditionals (Filtering Characters, if conditions inside loops)
  - Day 4 -  String Transformations (repeating chars, adding dashes, replacing vowels, uppercase + index, palindrome check)
  - Day 5 -  Array Methods (push, pop, shift, unshift, slice, splice)
- - Day 6 -  coming soon....
+ - Day 6 -  First & Last Character, Count Letter 'e', Reverse String, Extract Uppercase Letters, Replace Spaces with Dash
+ - Day 7 -  coming soon....
 
 ## How to run
 Copy/paste any file into browser console or Node.js and try to remove comments from wherever necessary.
@@ -44,3 +45,4 @@ week 2
 -`day3-script-js`
 -`day4-script-js`
 -`day5-script.js`
+-`day6-script.js`
