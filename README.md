@@ -17,7 +17,7 @@ Daily coding challenges covering core JavaScript concepts. Each day focuses on a
 -  Day 6 -  Operators (arithmetic, comparison, logical, assignment)
 -  Day 7 -  Block scope, Function scope, Global vs Local variables, Type coercion, Strict equality, const/let usage, Data types
 
- ### Week 1 - String and loops
+ ### Week 2 - String and loops
 
  - Day 1 -  String Basics (charAt, length, toUpperCase, toLowerCase, slice, replace)
  - Day 2 -  Looping Through Strings (for loops, character by character)
@@ -25,7 +25,9 @@ Daily coding challenges covering core JavaScript concepts. Each day focuses on a
  - Day 4 -  String Transformations (repeating chars, adding dashes, replacing vowels, uppercase + index, palindrome check)
  - Day 5 -  Array Methods (push, pop, shift, unshift, slice, splice)
  - Day 6 -  First & Last Character, Count Letter 'e', Reverse String, Extract Uppercase Letters, Replace Spaces with Dash
- - Day 7 -  coming soon....
+ - Day 7 -  Count Vowels, Remove Numbers, Character with Index, Palindrome Check, Manual Uppercase Conversion
+
+### Week 3 - coming soon....
 
 ## How to run
 Copy/paste any file into browser console or Node.js and try to remove comments from wherever necessary.
@@ -46,3 +48,4 @@ week 2
 -`day4-script-js`
 -`day5-script.js`
 -`day6-script.js`
+-`day7-script.js`
