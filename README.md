@@ -27,7 +27,10 @@ Daily coding challenges covering core JavaScript concepts. Each day focuses on a
  - Day 6 -  First & Last Character, Count Letter 'e', Reverse String, Extract Uppercase Letters, Replace Spaces with Dash
  - Day 7 -  Count Vowels, Remove Numbers, Character with Index, Palindrome Check, Manual Uppercase Conversion
 
-### Week 3 - coming soon....
+### Week 3 - Map
+
+ - Day 1 -  Increment Each, Add "!" to Each Word, Convert to Boolean, First Letter Only, Multiply by Index
+ - Day 2 -  coming soon....
 
 ## How to run
 Copy/paste any file into browser console or Node.js and try to remove comments from wherever necessary.
@@ -49,3 +52,4 @@ week 2
 -`day5-script.js`
 -`day6-script.js`
 -`day7-script.js`
+
