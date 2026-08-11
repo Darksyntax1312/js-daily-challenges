@@ -30,7 +30,8 @@ Daily coding challenges covering core JavaScript concepts. Each day focuses on a
 ### Week 3 - Map
 
  - Day 1 -  Increment Each, Add "!" to Each Word, Convert to Boolean, First Letter Only, Multiply by Index
- - Day 2 -  coming soon....
+ - Day 2 -  doubleAndAddFive, applyDiscount, processStrings, markPassFail, calculateTotal
+ - Day 3 -  coming soon....
 
 ## How to run
 Copy/paste any file into browser console or Node.js and try to remove comments from wherever necessary.
