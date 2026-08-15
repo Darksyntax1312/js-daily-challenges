@@ -34,7 +34,8 @@ Daily coding challenges covering core JavaScript concepts. Each day focuses on a
  - Day 3 -  Extract Values, Transform Objects, Create Sentences, Format Dates, Nested Objects
  - Day 4 -  Map + forEach, Map + Ternary, Map + Filter, Map + Reduce, Map + Loops
  - Day 5 -  Triple Chain, String Chain, Math Chain, Complex Chain, Mixed Chain
- - Day 6 - coming soon....
+ - Day 6 -  Empty Array, Mixed Data Types, Sparse Array, Nested Arrays, Object Transformation
+ - Day 7 -  coming soon....
    
 ## How to run
 Copy/paste any file into browser console or Node.js and try to remove comments from wherever necessary.
