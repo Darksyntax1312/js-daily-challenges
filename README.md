@@ -35,7 +35,12 @@ Daily coding challenges covering core JavaScript concepts. Each day focuses on a
  - Day 4 -  Map + forEach, Map + Ternary, Map + Filter, Map + Reduce, Map + Loops
  - Day 5 -  Triple Chain, String Chain, Math Chain, Complex Chain, Mixed Chain
  - Day 6 -  Empty Array, Mixed Data Types, Sparse Array, Nested Arrays, Object Transformation
- - Day 7 -  coming soon....
+ - Day 7 -  E-commerce Cart, User Database, Weather Data, Todo List, Social Media Posts
+
+### Week 3 - Function
+
+ - Day 1 -  Greeting Machine, FizzBuzz Function, Password Validator, Array Sum Calculator, String Repeater
+ - Day 2 -  coming soon....
    
 ## How to run
 Copy/paste any file into browser console or Node.js and try to remove comments from wherever necessary.
