@@ -42,7 +42,8 @@ Daily coding challenges covering core JavaScript concepts. Each day focuses on a
  - Day 1 -  Greeting Machine, FizzBuzz Function, Password Validator, Array Sum Calculator, String Repeater
  - Day 2 -  Number Squarer, Even Number Filter, Sales Tax Calculator, Contains Checker, Total Cart Value
  - Day 3 -  Person Describer, Object Key Swapper, Array of Objects Filter, Object Merger, Data Transformer
- - Day 4 -  coming soon....
+ - Day 4 -  Palindrome Checker, Random Number Generator, Factorial Finder, Prime Number Checker, Fibonacci Generator
+ - Day 5 -  coming soon....
    
 ## How to run
 Copy/paste any file into browser console or Node.js and try to remove comments from wherever necessary.
